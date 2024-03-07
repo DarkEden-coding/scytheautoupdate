@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/DarkEden-coding/darkchromasdk"
-"Bug Tracker" = "https://github.com/DarkEden-coding/darkchromasdk/issues"
+"Homepage" = "https://github.com/DarkEden-coding/scytheautoupdate"
+"Bug Tracker" = "https://github.com/DarkEden-coding/scytheautoupdate/issues"
